@@ -1,0 +1,74 @@
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\solid principle.exe
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\solid principle.deps.json
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\solid principle.runtimeconfig.json
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\solid principle.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\solid principle.pdb
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Core.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Data.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.DataService.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Diagnostics.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.EntitlementService.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Exception.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.GlobalTaxService.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.OAuth2PlatformClient.Diagnostics.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.OAuth2PlatformClient.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.QueryFilter.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.ReportService.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Retry.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Security.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.Utility.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Intuit.Ipp.WebHooksService.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\IppDotNetSdkForQuickBooksApiV3.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Xml.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Enrichers.Environment.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Enrichers.Thread.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\Serilog.Sinks.Trace.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\SerilogTraceListener.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.csproj.AssemblyReference.cache
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.AssemblyInfoInputs.cache
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.AssemblyInfo.cs
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.csproj.CoreCompileInputs.cache
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.csproj.CopyComplete
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\refint\solid principle.dll
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.pdb
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\solid principle.genruntimeconfig.cache
+C:\Workout for backend\BackEnd\solid principle\solid principle\obj\Debug\net6.0\ref\solid principle.dll
