@@ -24,7 +24,7 @@ using System.Threading.Tasks;
 }
 */
 
-namespace solid_principle
+namespace solid_principle//OCP Method
 {
     
     public interface IGenerateReport

@@ -23,6 +23,13 @@ namespace solid_principle
             _IGenerateReport = new ExcelReport();
             _IGenerateReport.generateReport();
 
+            IGenerateReport1 _IGenerateReport1 = new HtmlReport1();
+            _IGenerateReport1.GenerateReport();
+            _IGenerateReport1 = new JsonReport1();
+            _IGenerateReport1.GenerateReport();
+            _IGenerateReport1 = new ExcelReport1();
+            _IGenerateReport1.GenerateReport();
+
             /*Rectangle rectangle1 = new Rectangle { Height = 4, Width = 5 };
             Rectangle rectangle2 = new Rectangle { Height = 3, Width = 6 };
 
