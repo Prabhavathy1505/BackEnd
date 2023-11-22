@@ -52,6 +52,18 @@ namespace solid_principle//OCP Method
             Console.WriteLine("Excel Report");
         }
     }
+    public class Employee
+    {
+        private ISendIntimation _IsendIntimation;
+        public Employee(ISendIntimation iSendIntimation)
+        {
+            _IsendIntimation = iSendIntimation;
+        }
+        public void AddEmployee()
+        {
+            Console.WriteLine("Employee Added in the database");
+            _IsendIntimation.SendIntimation();
+        }
 
-   
-}
+    }
+    }

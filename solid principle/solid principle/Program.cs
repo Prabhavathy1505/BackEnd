@@ -38,6 +38,8 @@ namespace solid_principle
             double totalArea = areaCalculator.TotalArea(rectangles);
             Console.WriteLine($"Total Area: {totalArea}");
             */
+            Employee employee = new Employee(new Intimation());
+            employee.AddEmployee();
         }
     }
 }
