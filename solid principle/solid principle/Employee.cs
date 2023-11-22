@@ -61,7 +61,7 @@ namespace solid_principle//OCP Method
         }
         public void AddEmployee()
         {
-            Console.WriteLine("Employee Added in the database");
+            Console.WriteLine("\nEmployee Added in the database");
             _IsendIntimation.SendIntimation();
         }
 

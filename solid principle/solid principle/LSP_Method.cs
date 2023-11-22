@@ -29,7 +29,7 @@ namespace solid_principle
             }
             public override void GenerateReport2()
             {
-                Console.WriteLine(Format + "Html Report");
+                Console.WriteLine(Format + "\nHtml Report");
             }
         }
         public class JsonReport2 : IGenerateReport2
