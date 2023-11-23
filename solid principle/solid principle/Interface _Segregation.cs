@@ -10,10 +10,14 @@ public interface ISalary
     {
         public double BaseSalary();
         public double NRAllowance();
+       
+    }
+    public interface IVariablepay
+    {
         public double Variable();
     }
 
-    public class PermanentEmployee : ISalary
+        public class PermanentEmployee : ISalary, IVariablepay 
     {
         public double BaseSalary()
         {
@@ -38,9 +42,9 @@ public interface ISalary
         {
             return 5000;
         }
-        public double Variable()
+        /*public double Variable()
         {
             return 3000;
-        }
+        }*/
     }
 }

@@ -44,7 +44,7 @@ namespace solid_principle
             PermanentEmployee employee2 = new PermanentEmployee();
             Console.WriteLine("\nSalary of Permanent employee =" + (employee2.BaseSalary() + employee2.NRAllowance() + employee2.Variable()));
             ContractEmployee contractEmployee = new ContractEmployee();
-            Console.WriteLine("Salary of Contract employee =" + (contractEmployee.BaseSalary() + contractEmployee.NRAllowance() + contractEmployee.Variable()));
+            Console.WriteLine("Salary of Contract employee =" + (contractEmployee.BaseSalary() + contractEmployee.NRAllowance()));
         }
     }
 }
